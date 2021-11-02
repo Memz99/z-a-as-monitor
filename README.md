@@ -94,7 +94,7 @@ The annex works only with snippets, not plugins.
 Simply load like a regular plugin, i.e.:
 
 ```zsh
-zinit light zinit-zsh/z-a-as-monitor
+zinit light z-shell/z-a-as-monitor
 ```
 
 After executing the above command (possibly via `zshrc`) it's then possible to
